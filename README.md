@@ -1,7 +1,7 @@
 # Diversity and Inclusion HR Dashboard
 
 ### HR Manager 1
-![HR Dashboard 2]()
+![HR Dashboard 2](https://github.com/Roshani-Analyst/Diversity-and-Inclusion-Dashboard/blob/main/HR%20manager%201.png)
 
 ### HR Manager 2
 ![HR Dashboard 2]()
