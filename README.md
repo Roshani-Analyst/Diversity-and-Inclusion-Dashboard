@@ -4,7 +4,7 @@
 ![HR Dashboard 2](https://github.com/Roshani-Analyst/Diversity-and-Inclusion-Dashboard/blob/main/HR%20manager%201.png)
 
 ### HR Manager 2
-![HR Dashboard 2]()
+![HR Dashboard 2](https://github.com/Roshani-Analyst/Diversity-and-Inclusion-Dashboard/blob/main/HR%20manager%202.png)
 
 # Project Overview
 This dashboard analyzes diversity and inclusion metrics for an HR department, focusing on gender representation in hiring, promotions, performance ratings, and turnover. It provides insights to help HR monitor and improve diversity efforts.
