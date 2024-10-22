@@ -1,5 +1,11 @@
 # Diversity and Inclusion HR Dashboard
 
+### HR Manager 1
+![HR Dashboard 2]()
+
+### HR Manager 2
+![HR Dashboard 2]()
+
 # Project Overview
 This dashboard analyzes diversity and inclusion metrics for an HR department, focusing on gender representation in hiring, promotions, performance ratings, and turnover. It provides insights to help HR monitor and improve diversity efforts.
 
